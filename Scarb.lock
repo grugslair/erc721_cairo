@@ -2,5 +2,5 @@
 version = 1
 
 [[package]]
-name = "testnft2"
+name = "erc721_cairo"
 version = "0.1.0"
